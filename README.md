@@ -1,2 +1,2 @@
-# Tourisum-Package-Prediction
-Tourisum Package Prediction
+# Tourism-Package-Prediction
+Tourism Package Prediction
