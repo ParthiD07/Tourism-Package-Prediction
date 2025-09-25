@@ -97,6 +97,7 @@ input_data = pd.DataFrame([{
 # ================================
 # Prediction
 # ================================
+# Set the classification threshold
 CLASSIFICATION_THRESHOLD = 0.45
 
 if st.button("🔮 Predict", use_container_width=True):
